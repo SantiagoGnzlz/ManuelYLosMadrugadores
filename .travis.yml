@@ -1,8 +1,9 @@
 addons:
   sonarcloud:
-    organization: "santiagognzlz"
+    organization: santiagognzlz
     token:
-      secure: "8b699df3ea3b2666bdf2892c7556a6e4228ab40e" # encrypted value of your token
-
+      secure: 8b699df3ea3b2666bdf2892c7556a6e4228ab40e
 script:
-  - ./gradlew sonarqube
+- "./gradlew sonarqube"
+dd:
+  secure: sntOhOGd2WmoCjIxVQrWLt30b6N1Dl2xYDIMU/9pfF/pW1vaplD6y4OwovW3lNn8ZYoB1ORdwcb07dGx/Pid7UDXKJZ76DbAt2VSqmOJyWFrkLR32y+4OLVMD+4egYpK/ofHQ4FP/vuEEVWwiwkGe+Tf+0usZJoMQZG++spEgidkNIR106DqNOnBvJVdcz7gTEZhqnE6CTok3FKz3jeMptAmCfrKLdlZT/vatyF3oWk/mshg7RBjGC7WKshYf53zsV1arb73CcNgdrA9p4Wy6oHObC+Nhv2J92IY0ZhWhLjWx3oJelxg1Q6NI49uhSmRZpaKFJqdSnpJsjDRiQwYl80fXtqFgAnIsF25XKCII1gMN81Ks3vipf4wshDtqdZjusP7TjcF1vODZRlNmUixNqJscIno6dNcZhGVxSCTaEPQJiBaprqSPg3qUssittTpj21JOeHlum+1mlVZxsQxxPl6ndKbJHlwKtSsx7grsqXDADDtC54smOUrx60cpaEaHaFJ2pkBn/hvdaevVEQo2wmxMnhMx6+jOvDhWqZc0HYQ1R4pY5phy23p5kt2dXCmoQjP6+UXpqwhloVITzD0Rodj34cWlW381DCxIhTfVTf9KYdI/KTIlpjAiZKesYNdh/iswgfmJsSoSnNVcp+fNG4b9MLRwiAAWnTPIJS4c+g=
