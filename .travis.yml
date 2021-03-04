@@ -2,7 +2,7 @@ addons:
   sonarcloud:
     organization: santiagognzlz
     token:
-      secure: 8b699df3ea3b2666bdf2892c7556a6e4228ab40e
+      secure: "8b699df3ea3b2666bdf2892c7556a6e4228ab40e"
 script:
 - "./gradlew sonarqube"
 dd:
